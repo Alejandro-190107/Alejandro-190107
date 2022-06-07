@@ -2,7 +2,7 @@
 <h1 align="center">Hi ✌️, I'm Alejandro López 😎</h1>
 <h3 align="center">A Passionate Full Stack Developer 💻 From México.</h3>
 
-<img align="right" alt="Coding" width="300" height="300" src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif">
+<img align="right" alt="Coding" width="300" height="300" style="border-radius: 50%;" src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-190107&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-190107" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📚 I’m currently learning **Microsoft Azure Basics**
 
-- 👨‍💻 All of my projects are available at <a href="https://alejandro-lopez.futuretecware.com/Portafolio/" target="_blank">this link</a>
+- 👨‍💻 All of my projects are available at [https://alejandro-lopez.futuretecware.com/Portafolio/](https://alejandro-lopez.futuretecware.com/Portafolio/)
 
 - 💬 Ask me about **About full stack web development**
 
