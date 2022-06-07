@@ -1,4 +1,4 @@
-[![MasterHead](http://stekom.ac.id/images/infoprogdi/bsr/2b28354fc2ab9e3204248295a354d1a2.gif)](https://rishavchanda.io)
+<img align="right" alt="coding" width="300" src= http://stekom.ac.id/images/infoprogdi/bsr/2b28354fc2ab9e3204248295a354d1a2.gif>  
 
 <h1 align="center">Hi 👋, I'm Alejandro López</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
