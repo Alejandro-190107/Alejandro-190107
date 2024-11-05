@@ -12,7 +12,7 @@
 
 - 📚 I’m currently learning **Microsoft Azure Basics**
 
-- 👨‍💻 All of my projects are available at [https://alejandro-lopez.futuretecware.com/Portafolio/](https://alejandro-lopez.futuretecware.com/Portafolio/)
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-al.netlify.app/](https://personal-portfolio-al.netlify.app/)
 
 - 💬 Ask me about **About full stack web development**
 
