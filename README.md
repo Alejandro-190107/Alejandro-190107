@@ -1,6 +1,6 @@
 [![MasterHead](https://stekom.ac.id/images/infoprogdi/bsr/2b28354fc2ab9e3204248295a354d1a2.gif)](https://github.com/Alejandro-190107)
 <h1 align="center">Hi ✌️, I'm Alejandro López 😎</h1>
-<h3 align="center">A Passionate Full Stack Developer 💻 From México.</h3>
+<h3 align="center">A Passionate Web Developer 💻 From México.</h3>
 
 <img align="right" alt="Coding" width="300" height="300" src="https://tecnologia-innovadora.com/wp-content/uploads/2022/02/que-hacer-para-convertirse-en-ingeniero-en-sistemas-desarrollador-de-sistemas-computacionales-programacion-informatica.gif">
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🏫 I am currently studying in **Instituto Tecnológico de Pachuca (ITP)**
+- 🏫 Engineer graduated from the Technological Institute of Pachuca (ITP)**
 
 - 📚 I’m currently learning **Microsoft Azure Basics**
 
