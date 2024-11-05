@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🏫 Engineer graduated from the Technological Institute of Pachuca (ITP)**
+- 🏫 Engineer graduated from the **Technological Institute of Pachuca (ITP)**
 
 - 📚 I’m currently learning **Microsoft Azure Basics**
 
