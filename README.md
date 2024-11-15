@@ -13,7 +13,7 @@
 - 📚 I'm currently learning first steps with **Vue.js**
 
 - 👨‍💻 Other of my projects are available at [https://personal-portfolio-al.netlify.app/](https://personal-portfolio-al.netlify.app/)
-
+    
 - 💬 Ask me about **About web development**
 
 - 📩 How to reach me **alejandrolopez190107@gmail.com**
@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/daniel-alejandro-l%C3%B3pez-herrera-477548241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ale lópez" height="30" width="40" /></a>
 </p>
 
-<hr>  <br>  
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
